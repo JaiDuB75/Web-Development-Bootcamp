@@ -1,0 +1,32 @@
+HTML Tables
+  - General Syntax
+
+    <table>
+      <tr>
+        <td>
+          Table Data Goes Here
+        </td>
+      </tr>
+      <tr> New Row
+        <td>
+          New Row Data Goes Here
+        </td>
+      </tr>
+    </table>
+
+  - Table Headers
+    <thead>
+      <tr>
+       <td>
+       Table Header Data
+       </td>
+      </tr>
+    </thead>
+
+  - Table Body Tags
+    <tbody>
+    General Syntax Follows
+    </tbody>
+
+  - Deprecated
+    - Old Code that shouldn't be used to in current programs.
